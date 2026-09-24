@@ -55,3 +55,4 @@ catalogo = [
 print("--- EXIBINDO O CATÁLOGO MISTO ---")
 for item in catalogo:
     item.exibir_info()  # Aqui acontece o Polimorfismo!
+   #primeira linha de comentario
